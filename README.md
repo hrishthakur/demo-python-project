@@ -1,4 +1,4 @@
-# Data Project Template
+# Python project 
 
 ## Adjusting .gitignore
 
